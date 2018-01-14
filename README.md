@@ -1,5 +1,5 @@
 # BOSSlibsICE
-<<<<<<< master
+
 *Very Cool* Libraries for the ICE programming language (TI-84+CE graphing calculator)
 =======
 libraries for ICE compiler language (TI-84+CE graphing calculator)
